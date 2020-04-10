@@ -2,7 +2,7 @@
 The Main purposer for this app is to connect every person in the fullerton area with each other. 
 Everyone using this app will find out more activites to do in the Fullerton area. <br>
 Member: -Marcos Reyes -Mauricio Macias -Hung Cun <br>
-#Activity Diagram <br>
+#Activity Diagram 
 ![](activity.png) <br>
-#Use Case Diagram <br>
+#Use Case Diagram 
 ![](use_case.png) <br>
